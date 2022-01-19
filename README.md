@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gustavo Henrique!
 <div align="center">
-  <a href="https://github.com/Joao-Gontijo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Gontijo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gontijo&layout=compact&langs_count=6&theme=dark"/>
+  <a href="https://github.com/GustavoHenrique-png">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoHenrique-png&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique-png&layout=compact&langs_count=6&theme=dark"/>
   <a/>
 </div>
   
