@@ -13,7 +13,7 @@
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;"    src="https://cdn.discordapp.com/attachments/908006505347944490/933402281129418772/baby-yoda-star-wars.gif">
+  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;"    src="https://cdn.discordapp.com/attachments/1004354269014663232/1004354368453222450/download20220803084329.png">
 </div>
   
   ##
