@@ -6,7 +6,7 @@
   <a/>
 </div>
   <div style="display: inline_block;"><br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img align="center" alt="Gusta-tryhackme" height="58" width="249" src="https://tryhackme-badges.s3.amazonaws.com/lSnow.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/lSnow"><img align="center" alt="Gusta-tryhackme" height="58" width="249" src="https://tryhackme-badges.s3.amazonaws.com/lSnow.png" alt="TryHackMe"></a>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gusta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
