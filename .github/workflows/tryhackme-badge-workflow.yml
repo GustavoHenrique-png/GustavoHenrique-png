@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "lSnow"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
