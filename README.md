@@ -37,7 +37,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-![tryhackme stats](https://raw.githubusercontent.com/GustavoHenrique-png/GustavoHenrique-png/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/lSnow.png" alt="TryHackMe">
 
 
 #### Databases:
