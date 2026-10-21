@@ -4,6 +4,8 @@
 
 Sou bacharel em Sistemas de Informação pelo Instituto Federal de Goiás (IFG) e certificado **C3SA — Certified Cyber Security Analyst**, pela CyberWarFare Labs (CWL). Busco oportunidades como **Analista de Segurança da Informação Júnior ou Analista SOC N1**.
 
+Atualmente curso a **pós-graduação em Ethical Hacking, Análise de Vulnerabilidades e Testes de Invasão**, pela **UNIASSELVI**.
+
 Meu portfólio reúne estudos e projetos em Python, redes, coleta de dados de processos Linux e testes de software. Minha experiência com desenvolvimento web e diagnóstico de problemas em sistemas reforça a base técnica que aplico nessa transição para segurança.
 
 ## Projetos em destaque
@@ -16,6 +18,7 @@ Meu portfólio reúne estudos e projetos em Python, redes, coleta de dados de pr
 
 ## Formação e estudos em segurança
 
+- **Pós-graduação em Ethical Hacking, Análise de Vulnerabilidades e Testes de Invasão — UNIASSELVI**, em andamento.
 - **Bacharelado em Sistemas de Informação — IFG**, concluído em 2025.
 - **C3SA — Certified Cyber Security Analyst — CWL**, obtida em 2026.
 - **TCC:** “Técnicas de detecção de intrusão baseadas em inteligência artificial: uma revisão sistemática”. Pesquisa bibliográfica sobre o tema.
