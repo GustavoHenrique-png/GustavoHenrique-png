@@ -10,8 +10,8 @@ Meu portfólio reúne estudos e projetos em Python, redes, coleta de dados de pr
 
 | Projeto | O que desenvolvi | Tecnologias e conceitos |
 | --- | --- | --- |
-| [Hacking-Project](https://github.com/GustavoHenrique-png/Hacking-Project) | Scanner didático que verifica conexões TCP nas portas 80 e 22 de um alvo informado pela linha de comando. | Python, Bash, `socket`, `argparse`, IPv4 e TCP |
-| [Processos](https://github.com/GustavoHenrique-png/Processos) | Coleta periódica de processos Linux com `ps aux`, organização de PID, CPU, memória e comandos, e armazenamento em CSV e pickle. | Python, Linux, `subprocess` e pandas |
+| [tcp-port-scanner](https://github.com/GustavoHenrique-png/tcp-port-scanner) | Scanner didático que verifica conexões TCP nas portas 80 e 22 de um alvo informado pela linha de comando. | Python, Bash, `socket`, `argparse`, IPv4 e TCP |
+| [linux-process-collector](https://github.com/GustavoHenrique-png/linux-process-collector) | Coleta periódica de processos Linux com `ps aux`, organização de PID, CPU, memória e comandos, e armazenamento em CSV e pickle. | Python, Linux, `subprocess` e pandas |
 | [BuscaTreco](https://github.com/GustavoHenrique-png/BuscaTreco) | Projeto acadêmico de busca de ofertas com interface web e casos de teste automatizados. | Python, Flask, BeautifulSoup, pandas e `unittest` |
 
 ## Formação e estudos em segurança
@@ -24,6 +24,10 @@ Meu portfólio reúne estudos e projetos em Python, redes, coleta de dados de pr
 ## Foco de desenvolvimento
 
 Aprofundar fundamentos de redes e sistemas operacionais, análise de logs, monitoramento de segurança e resposta a incidentes, com documentação dos estudos e evolução dos projetos.
+
+## Idiomas
+
+Português e inglês intermediário.
 
 ## Contato
 
